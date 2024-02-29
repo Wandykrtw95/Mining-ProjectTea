@@ -2,12 +2,15 @@
 Mining Project Tea
 First install this package :
 
+First install this package :
+
 pip install binascii
 pip install traceback
 pip install signal
 pip install requests
 pip install colorama
-pip install lxml
+pip install lxml  
+                                                                            
 use this package's imported this source :
 
 import binascii
@@ -23,4 +26,4 @@ from datetime import datetime
 from signal import SIGINT , signal
 import requests
 from colorama import Back , Fore , Style
-import con-text as ctx
+import constext as ctx
