@@ -1,4 +1,4 @@
 while :
 do
-    Mining-ProjetcTea.py
+    MiningProjetcTea.py
 done
